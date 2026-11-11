@@ -1,12 +1,16 @@
 # Hi, I'm Yujie Yang! 👋
 
-I'm an M.Sc. student in **Electrical and Computer Engineering at the Technical University of Munich**, specializing in Automation & Robotics. I work on embedded software, sensor systems, and machine learning that runs on physical hardware.
+I work on embedded software, sensor systems, and machine learning that runs on physical hardware.
+
+## Education
+
+- **Technical University of Munich** — M.Sc. in Electrical and Computer Engineering, specializing in Automation & Robotics.
+- **University of Stuttgart** — B.Sc. in Electrical Engineering & Information Technology. My thesis compared infrared photodiodes and time-of-flight sensors for vertical position detection.
 
 ## Experience
 
 - **Midea Group** — Built and bench-tested a sensor system prototype for an internal showcase as an electrical engineering working student.
 - **Rennteam Uni Stuttgart** — Documented how the Formula Student car's STM32 gateway, Raspberry Pi logger, and trackside services worked across three CAN buses. Built a CAN training node using the team's YAML-to-DBC workflow.
-- **University of Stuttgart** — Compared infrared photodiodes and time-of-flight sensors for vertical position detection in my bachelor's thesis.
 
 ## Selected projects
 
